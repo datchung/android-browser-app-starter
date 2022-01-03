@@ -1,1 +1,1 @@
-# android-browser-app-starter
+# android-web-app-starter
